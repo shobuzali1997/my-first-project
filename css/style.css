@@ -1,0 +1,197 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: rgb(227, 229, 231);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.containar{
+    background-color: rgb(195, 225, 236);
+    width: 80%;
+    margin: 0 auto;
+    position: static;
+}
+
+h1 {
+    text-align: center;
+    padding-bottom: 15px;
+    padding-top: 10px;
+    text-decoration: underline;
+}
+.cv-header-div{
+    width: 45%;
+    overflow: hidden;
+    position: relative;
+    top: 70px;
+    left: 40px;
+   
+}
+
+
+    #p-image {
+        height: 240px;
+        width: 160px;
+    }
+
+.profile-images{
+    margin-left: 80px;
+    margin-bottom: 15px;
+    width:160px;
+    height: 240px;
+    border-radius: 50%;
+    float: left;
+    overflow: hidden;
+    
+}
+
+hr{
+    width: 100%;
+    margin: 5px solid black;
+    border: 3px solid black;
+
+ 
+}
+.clear-div{
+    clear: both;
+}
+
+
+
+
+
+
+li{
+    list-style-type: none;
+}
+
+.per-div {
+
+    position: relative;
+    text-decoration: underline;
+    box-sizing: border-box;
+    width: 400px;
+    height: 60px;
+    
+}
+
+
+
+.ul-1st {
+    width: 150px; 
+    float: left;
+    margin-left:80px ;
+    overflow: hidden;
+
+}
+
+.ul-2nd{
+    width: 300px;
+    float: left;
+    overflow: hidden;
+}
+
+#section-1 { 
+    overflow: hidden;
+    box-sizing: border-box;
+    float: left;
+    margin-left: 10px;
+    width: 600px;
+   
+
+}
+
+
+#section-2 { 
+    overflow: hidden;
+    box-sizing: border-box;
+    float: left;
+    margin-left: 10px;
+    width: 600px;
+}
+   
+
+#section-3 { 
+    overflow: hidden;
+    box-sizing: border-box;
+    float: left;
+    margin-left: 10px;
+    width: 600px;
+   
+
+}
+
+#section-4 {
+    box-sizing: border-box;
+    overflow: hidden;
+    height: 250px;
+    width: 90%;
+    position: relative;
+    left: 10px;
+ 
+    
+}
+
+
+.tab {
+    position: absolute;
+    top: 50px;
+    height: 170px;
+    width: 100%;
+   
+
+}
+
+table,th,tr,td{
+    border: 1px solid black;
+    overflow: hidden;
+    border-collapse: collapse;
+    text-align: center;
+
+
+}
+
+table{
+    height: 100%;
+    width: 100%;
+    
+}
+
+.section-footer{
+    width: 90%;
+    height: 250px;
+    position: relative;
+    overflow: hidden;
+}
+
+.div-left{
+    overflow: hidden;
+    position: absolute;
+    left: 50px;
+    top: 100px;
+}
+
+.div-right{
+    overflow: hidden;
+    position: absolute;
+    right: 30px;
+    top: 100px;
+    height: 120px;
+    width: 225px;
+    text-align: center;
+}
+
+
+
+    
+
+
+
+
+    
+
+
+
+
